@@ -40,13 +40,13 @@ It includes data cleaning, outlier handling, feature engineering, and Explorator
 ## 📈 Key Insights
 
 ### Price Distribution
-![Price Distribution](Price Distribution.png)
+https://github.com/aliabdal51214-cpu/Airbnb-Data-Analysis-NYC/blob/main/Price%20Boxplot.png
 
 ### Price Boxplot
-![Price Boxplot](Price Boxplot.png)
+https://github.com/aliabdal51214-cpu/Airbnb-Data-Analysis-NYC/blob/main/Price%20Distribution.png
 
 ### Correlation Heatmap
-![Correlation Heatmap](Correlation Heatmap.png)
+https://github.com/aliabdal51214-cpu/Airbnb-Data-Analysis-NYC/blob/main/Correlation%20Heatmap.png
 
 - **Entire homes** are significantly more expensive than shared/private rooms  
 - **Manhattan listings** have the highest prices  
