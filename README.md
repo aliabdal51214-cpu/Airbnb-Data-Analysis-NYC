@@ -39,6 +39,15 @@ It includes data cleaning, outlier handling, feature engineering, and Explorator
 
 ## 📈 Key Insights
 
+
+### Price Distribution
+![Price Distribution](https://github.com/aliabdal51214-cpu/Airbnb-Data-Analysis-NYC/raw/main/Price%20Distribution.png)
+
+### Price Boxplot
+![Price Boxplot](https://github.com/yourusername/YourRepoName/raw/main/Price%20Boxplot.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](https://github.com/yourusername/YourRepoName/raw/main/Correlation%20Heatmap.png)
 ### Price Distribution
 https://github.com/aliabdal51214-cpu/Airbnb-Data-Analysis-NYC/blob/main/Price%20Boxplot.png
 
