@@ -60,3 +60,13 @@ It focuses on data cleaning, outlier treatment, feature engineering, and Explora
 **Ali Abdal** – Data Science Enthusiast  
 - LinkedIn: [www.linkedin.com/in/ali-abdal-ml]  
 - GitHub: [https://github.com/aliabdal51214-cpu]
+- ## EDA Visualizations
+
+### Price Distribution
+![Histogram](images/histogram.png)
+
+### Price Boxplot
+![Boxplot](images/boxplot.png)
+
+### Correlation Heatmap
+![Heatmap](images/heatmap.png)
