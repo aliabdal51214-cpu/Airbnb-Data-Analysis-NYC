@@ -63,10 +63,10 @@ It focuses on data cleaning, outlier treatment, feature engineering, and Explora
 - ## EDA Visualizations
 
 ### Price Distribution
-![Histogram](images/histogram.png)
+![](images/Price Distribution.png)
 
 ### Price Boxplot
-![Boxplot](images/boxplot.png)
+![Boxplot](images/Price Boxplot.png)
 
 ### Correlation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](images/Correlation Heatmap.png)
