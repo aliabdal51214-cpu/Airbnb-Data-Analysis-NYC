@@ -40,13 +40,13 @@ It includes data cleaning, outlier handling, feature engineering, and Explorator
 ## 📈 Key Insights
 
 ### Price Distribution
-![Price Distribution](Price_Distribution.png)
+![Price Distribution](Price Distribution.png)
 
 ### Price Boxplot
-![Price Boxplot](Price_Boxplot.png)
+![Price Boxplot](Price Boxplot.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](Correlation_Heatmap.png)
+![Correlation Heatmap](Correlation Heatmap.png)
 
 - **Entire homes** are significantly more expensive than shared/private rooms  
 - **Manhattan listings** have the highest prices  
