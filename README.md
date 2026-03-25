@@ -2,15 +2,15 @@
 
 ## 📌 Overview
 This project performs **end-to-end data analysis** on the Airbnb NYC 2019 dataset.  
-It focuses on data cleaning, outlier treatment, feature engineering, and Exploratory Data Analysis (EDA) to extract actionable insights.
+It includes data cleaning, outlier handling, feature engineering, and Exploratory Data Analysis (EDA) to extract actionable insights.
 
 ---
 
 ## 🎯 Objectives
-- Clean real-world Airbnb data  
+- Clean and preprocess Airbnb data  
 - Handle missing values and outliers  
-- Perform feature engineering and encoding  
-- Visualize patterns and trends using EDA  
+- Apply feature engineering and encoding  
+- Conduct Exploratory Data Analysis (EDA) with visualizations  
 
 ---
 
@@ -20,53 +20,52 @@ It focuses on data cleaning, outlier treatment, feature engineering, and Explora
 - **NumPy**  
 - **Matplotlib**  
 - **Seaborn**  
-- **Scikit-learn**
+- **Scikit-learn**  
 
 ---
 
 ## 🔄 Workflow
-1. Data Exploration (`head`, `info`, `describe`)  
-2. Handling Missing Values (`fillna`, `dropna`)  
+1. Data Exploration (`head()`, `info()`, `describe()`)  
+2. Handling Missing Values (`fillna()`, `dropna()`)  
 3. Outlier Detection (IQR method, Boxplots)  
 4. Outlier Treatment (removal & Winsorization)  
 5. Feature Scaling (Standardization / Normalization)  
 6. Encoding (One-Hot / Label Encoding)  
 7. Feature Engineering (price categories, review groups)  
-8. Exploratory Data Analysis (histograms, heatmaps, barplots)  
-9. Final Clean Dataset Preparation
+8. Exploratory Data Analysis (histograms, boxplots, heatmaps)  
+9. Final Clean Dataset Preparation  
 
 ---
 
 ## 📈 Key Insights
-- **Entire homes** are significantly more expensive than shared or private rooms.  
-- **Manhattan listings** are the most expensive, Brooklyn and Queens slightly cheaper.  
-- **High availability** often correlates with lower prices.  
-- Outliers in `price` and `minimum_nights` heavily skewed initial analysis.
+
+### Price Distribution
+![Price Distribution](images/Price_Distribution.png)
+
+### Price Boxplot
+![Price Boxplot](images/Price_Boxplot.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](images/Correlation_Heatmap.png)
+
+- **Entire homes** are significantly more expensive than shared/private rooms  
+- **Manhattan listings** have the highest prices  
+- **Higher availability** tends to correlate with lower price  
 
 ---
 
 ## 📂 Dataset
-- Airbnb NYC 2019 dataset ([https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data])
+- Airbnb NYC 2019 dataset ([Kaggle Link](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data))
 
 ---
 
 ## 🚀 Future Work
-- Build **Machine Learning regression models** for price prediction.  
-- Create **interactive dashboards** using Plotly or Tableau.  
+- Build **Machine Learning regression models** for price prediction  
+- Create **interactive dashboards** using Plotly / Tableau  
 
 ---
 
 ## 👨‍💻 Author
 **Ali Abdal** – Data Science Enthusiast  
 - LinkedIn: [www.linkedin.com/in/ali-abdal-ml]  
-- GitHub: [https://github.com/aliabdal51214-cpu]
-- ## EDA Visualizations
-
-### Price Distribution
-![](images/Price Distribution.png)
-
-### Price Boxplot
-![Boxplot](images/Price Boxplot.png)
-
-### Correlation Heatmap
-![Heatmap](images/Correlation Heatmap.png)
+- GitHub: [https://github.com/aliabdal51214-cpu]  
